@@ -14,7 +14,7 @@ const projects = [
         description:
             "Modern responsive website with a clean professional interface.",
         image:
-            "assets/projects/websites/website-01.jpg",
+            "Assets/projects/websites/website-01.jpg",
         tech:
             ["HTML", "CSS", "JavaScript"]
     },
@@ -27,7 +27,7 @@ const projects = [
         description:
             "Creative web experience designed for desktop and mobile.",
         image:
-            "assets/projects/websites/website-02.jpg",
+            "Assets/projects/websites/website-02.jpg",
         tech:
             ["HTML", "CSS", "JavaScript"]
     },
@@ -40,7 +40,7 @@ const projects = [
         description:
             "Professional business website with responsive layouts.",
         image:
-            "assets/projects/websites/website-03.jpg",
+            "Assets/projects/websites/website-03.jpg",
         tech:
             ["HTML", "CSS", "Responsive"]
     },
@@ -56,7 +56,7 @@ const projects = [
         description:
             "Interactive 2D game project with custom gameplay and UI.",
         image:
-            "assets/projects/games/game-01.jpg",
+            "Assets/projects/games/game-01.jpg",
         tech:
             ["Unity", "C#", "2D"]
     },
@@ -69,7 +69,7 @@ const projects = [
         description:
             "Creative puzzle game with colorful game interface.",
         image:
-            "assets/projects/games/game-02.jpg",
+            "Assets/projects/games/game-02.jpg",
         tech:
             ["Unity", "C#", "Game UI"]
     },
@@ -82,7 +82,7 @@ const projects = [
         description:
             "Interactive game environment with custom visual assets.",
         image:
-            "assets/projects/games/game-03.jpg",
+            "Assets/projects/games/game-03.jpg",
         tech:
             ["Unity", "C#", "Game Design"]
     },
@@ -98,7 +98,7 @@ const projects = [
         description:
             "Modern poster design created for digital presentation.",
         image:
-            "assets/projects/graphic-design/graphic-01.jpg",
+            "Assets/projects/graphic-design/graphic-01.jpg",
         tech:
             ["Photoshop", "Design"]
     },
@@ -111,7 +111,7 @@ const projects = [
         description:
             "High-quality graphic composition with modern visual style.",
         image:
-            "assets/projects/graphic-design/graphic-02.jpg",
+            "Assets/projects/graphic-design/graphic-02.jpg",
         tech:
             ["Graphic Design", "Branding"]
     },
@@ -124,7 +124,7 @@ const projects = [
         description:
             "Creative digital artwork and visual composition.",
         image:
-            "assets/projects/graphic-design/graphic-03.jpg",
+            "Assets/projects/graphic-design/graphic-03.jpg",
         tech:
             ["Design", "Digital Art"]
     },
@@ -140,7 +140,7 @@ const projects = [
         description:
             "Modern 3D logo concept with professional presentation.",
         image:
-            "assets/projects/3d-logos/3d-logo-01.jpg",
+            "Assets/projects/3d-logos/3d-logo-01.jpg",
         tech:
             ["Blender", "3D", "Logo"]
     },
@@ -153,7 +153,7 @@ const projects = [
         description:
             "Custom 3D model created for digital and game projects.",
         image:
-            "assets/projects/3d-logos/3d-logo-02.jpg",
+            "Assets/projects/3d-logos/3d-logo-02.jpg",
         tech:
             ["Blender", "Modeling", "3D"]
     },
@@ -166,7 +166,7 @@ const projects = [
         description:
             "Clean and modern professional logo concept.",
         image:
-            "assets/projects/3d-logos/3d-logo-03.jpg",
+            "Assets/projects/3d-logos/3d-logo-03.jpg",
         tech:
             ["Logo Design", "Branding"]
     },
@@ -182,7 +182,7 @@ const projects = [
         description:
             "Modern social media graphics and promotional design.",
         image:
-            "assets/projects/social-media/social-01.jpg",
+            "Assets/projects/social-media/social-01.jpg",
         tech:
             ["Social Media", "Design"]
     },
@@ -195,7 +195,7 @@ const projects = [
         description:
             "Creative social media post designed for digital platforms.",
         image:
-            "assets/projects/social-media/social-02.jpg",
+            "Assets/projects/social-media/social-02.jpg",
         tech:
             ["Instagram", "Graphic Design"]
     },
@@ -208,7 +208,7 @@ const projects = [
         description:
             "Professional promotional social media artwork.",
         image:
-            "assets/projects/social-media/social-03.jpg",
+            "Assets/projects/social-media/social-03.jpg",
         tech:
             ["Social Media", "Branding"]
     },
@@ -224,7 +224,7 @@ const projects = [
         description:
             "Modern game interface designed for an engaging player experience.",
         image:
-            "assets/projects/ui-ux/uiux-01.jpg",
+            "Assets/projects/ui-ux/uiux-01.jpg",
         tech:
             ["UI/UX", "Game UI"]
     },
@@ -237,7 +237,7 @@ const projects = [
         description:
             "Clean mobile application interface and user experience.",
         image:
-            "assets/projects/ui-ux/uiux-02.jpg",
+            "Assets/projects/ui-ux/uiux-02.jpg",
         tech:
             ["Figma", "UI/UX"]
     },
@@ -250,7 +250,7 @@ const projects = [
         description:
             "Professional dashboard interface with modern layout.",
         image:
-            "assets/projects/ui-ux/uiux-03.jpg",
+            "Assets/projects/ui-ux/uiux-03.jpg",
         tech:
             ["UI Design", "UX"]
     },
@@ -266,7 +266,7 @@ const projects = [
         description:
             "Modern mobile application concept with responsive interface.",
         image:
-            "assets/projects/mobile-apps/mobile-app-01.jpg",
+            "Assets/projects/mobile-apps/mobile-app-01.jpg",
         tech:
             ["Flutter", "UI/UX"]
     },
@@ -279,7 +279,7 @@ const projects = [
         description:
             "Clean mobile app interface designed for usability.",
         image:
-            "assets/projects/mobile-apps/mobile-app-02.jpg",
+            "Assets/projects/mobile-apps/mobile-app-02.jpg",
         tech:
             ["Mobile", "UI/UX"]
     },
@@ -292,7 +292,7 @@ const projects = [
         description:
             "Mobile dashboard interface with modern components.",
         image:
-            "assets/projects/mobile-apps/mobile-app-03.jpg",
+            "Assets/projects/mobile-apps/mobile-app-03.jpg",
         tech:
             ["Flutter", "Design"]
     },
